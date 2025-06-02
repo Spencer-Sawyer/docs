@@ -30,7 +30,7 @@ While this is called Desktop Client, this actually has nothing to do with the de
 
 ### Desktop Electron
 
-This is the source code for the Desktop application, in its current state it is not configured to work with the self hosted version of Actual Budget, however the source code is available for this to be completed.
+This is the source code for the Desktop application. It's a wrapper that allows for a stable use of the Actual Web App locally with or without the internet or a sync-server.
 
 ### Loot Core
 
